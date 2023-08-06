@@ -13,3 +13,9 @@ with col2:
     content = """Joe Madjeski has had many jobs in IT: Operations, Support, Change Manager, Server admin, Data Center 
     Management, and more. The newest challenge is software engineering."""
     st.info(content)
+
+content2 = """
+Below, you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+
+st.write(content2)
